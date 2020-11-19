@@ -8,12 +8,15 @@
     <list default="true" id="1aa4fdfb-80ea-4c3e-826a-8c743d6755e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ToonTanks/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToonTanks/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_PawnTank.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_PawnTank.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_PawnTurret.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_PawnTurret.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_PawnTank.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_PawnTurret.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/Main.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Main.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnTank.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnTank.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnTank.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnTank.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToonTanks.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ToonTanks.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnTurret.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnTurret.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnTurret.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnTurret.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +29,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTank.cpp" />
-        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" />
-        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" />
-        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTank.h" />
         <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTurret.h" />
         <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTurret.cpp" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTank.h" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTank.cpp" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.h" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.cpp" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" />
       </list>
     </option>
   </component>
@@ -285,7 +290,9 @@
       <workItem from="1605398768495" duration="418000" />
       <workItem from="1605420202087" duration="870000" />
       <workItem from="1605498025752" duration="3348000" />
-      <workItem from="1605569587789" duration="1627000" />
+      <workItem from="1605569587789" duration="2223000" />
+      <workItem from="1605669755914" duration="4196000" />
+      <workItem from="1605737931346" duration="2659000" />
     </task>
     <servers />
   </component>
