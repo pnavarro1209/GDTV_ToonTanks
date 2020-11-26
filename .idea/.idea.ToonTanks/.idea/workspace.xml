@@ -8,10 +8,18 @@
     <list default="true" id="1aa4fdfb-80ea-4c3e-826a-8c743d6755e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_PawnTank.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_PawnTurret.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actors/BP_ProjectileBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actors/BP_ProjectileBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/GameModes/BP_GameModeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/GameModes/BP_GameModeBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTank.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTank.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTurret.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTurret.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/Main.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Main.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/Components/HealthComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/Components/HealthComponent.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/Components/HealthComponent.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/Components/HealthComponent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/GameModes/TankGameModeBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/GameModes/TankGameModeBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/GameModes/TankGameModeBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/GameModes/TankGameModeBase.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnTank.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnTank.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnTank.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnTank.h" afterDir="false" />
@@ -29,14 +37,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" />
         <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTurret.h" />
-        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTurret.cpp" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.h" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/Components/HealthComponent.h" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/Components/HealthComponent.cpp" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.cpp" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/PlayerControllers/PlayerControllerBase.h" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/PlayerControllers/PlayerControllerBase.cpp" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/GameModes/TankGameModeBase.h" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/GameModes/TankGameModeBase.cpp" />
         <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTank.h" />
         <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTank.cpp" />
-        <option value="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.h" />
-        <option value="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.cpp" />
-        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" />
-        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTurret.cpp" />
       </list>
     </option>
   </component>
@@ -293,6 +307,8 @@
       <workItem from="1605569587789" duration="2223000" />
       <workItem from="1605669755914" duration="4196000" />
       <workItem from="1605737931346" duration="2659000" />
+      <workItem from="1606269185719" duration="7710000" />
+      <workItem from="1606331835009" duration="5782000" />
     </task>
     <servers />
   </component>

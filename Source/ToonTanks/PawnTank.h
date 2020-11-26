@@ -23,6 +23,7 @@ private:
 
 	FVector MoveDirection;
 	FQuat RotationDirection;
+	bool bIsPlayerAlive = true;
 
 	APlayerController* PlayerControllerRef;
 
@@ -48,11 +49,15 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent *PlayerInputComponent) override;
 
+	virtual void HandleDestruction() override;
+
+	bool GetIsPlayerAlive();
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-	virtual void HandleDestruction() override;
+	
 
 };
 

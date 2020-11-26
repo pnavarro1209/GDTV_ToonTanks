@@ -34,6 +34,7 @@ void UHealthComponent::TakeDamage(AActor* DamageActor, float Damage, const UDama
 	}
 
 	Health = FMath::Clamp(Health - Damage, 0.f, DefaultHealth);
+	UE_LOG(LogTemp, Warning, TEXT("Health is: %f"), Health);
 
 	if(Health <= 0)
 	{

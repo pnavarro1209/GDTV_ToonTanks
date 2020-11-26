@@ -39,5 +39,4 @@ protected:
 	void Fire();
 
 	virtual void HandleDestruction();
-
 };
