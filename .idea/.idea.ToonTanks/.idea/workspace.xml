@@ -7,8 +7,14 @@
   <component name="ChangeListManager">
     <list default="true" id="1aa4fdfb-80ea-4c3e-826a-8c743d6755e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToonTanks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actors/BP_ProjectileBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actors/BP_ProjectileBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTank.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTank.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTurret.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Pawns/BP_PawnTurret.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PlayerControllers/BP_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/PlayerControllers/BP_PlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Widgets/WBP_GameStart.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Widgets/WBP_GameStart.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/Main.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Main.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" afterDir="false" />
     </list>
@@ -33,9 +39,9 @@
         <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTank.h" />
         <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTank.cpp" />
         <option value="$PROJECT_DIR$/Source/ToonTanks/PawnTurret.cpp" />
+        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" />
         <option value="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.h" />
         <option value="$PROJECT_DIR$/Source/ToonTanks/Actors/ProjectileBase.cpp" />
-        <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.h" />
         <option value="$PROJECT_DIR$/Source/ToonTanks/PawnBase.cpp" />
       </list>
     </option>
@@ -296,7 +302,7 @@
       <workItem from="1606269185719" duration="7710000" />
       <workItem from="1606331835009" duration="8655000" />
       <workItem from="1606369194762" duration="75000" />
-      <workItem from="1606369333037" duration="1449000" />
+      <workItem from="1606369333037" duration="3000000" />
     </task>
     <servers />
   </component>

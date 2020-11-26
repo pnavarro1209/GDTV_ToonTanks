@@ -37,6 +37,9 @@ private:
 	UPROPERTY(EditAnywhere, Category = "Audio")
 	USoundBase* DeathSound;
 
+	UPROPERTY(EditAnywhere, Category = "Camera Effects")
+	TSubclassOf<UCameraShake> CameraShakeEffect;
+
 public:
 	// Sets default values for this pawn's properties
 	APawnBase();
